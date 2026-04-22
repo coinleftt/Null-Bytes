@@ -25,15 +25,15 @@ Install and run the project locally
 Database: https://github.com/codejapoe/Null-Bytes/tree/main/Database  
 (Source code of the database and web app)
 
-Docs: https://github.com/codejapoe/Null-Bytes/tree/main/Docs  
+Docs: https://github.com/coinleftt/Null-Bytes/tree/main/Docs  
 (Source code of documentation website)
 
-API: https://github.com/codejapoe/Null-Bytes/tree/main/API  
+API: https://github.com/coinleftt/Null-Bytes/tree/main/API  
 (Source code of Python package)
 
 ## Author
 
-- [@codejapoe](https://www.github.com/codejapoe)
+- [@coinleftt](https://www.github.com/coinleftt)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codejapoe.xyz/)
